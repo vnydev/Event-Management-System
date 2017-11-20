@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+}
+.example-button-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+.navbar-header a{
+    color: rgb(117, 55, 66) !important;
+    font-weight: bold;
+}
+
+.navbar-header a:hover{
+    color: rgb(216, 41, 73) !important;
+}
